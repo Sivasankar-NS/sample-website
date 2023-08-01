@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+}
+.bgmi{
+    background-image: url(./2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

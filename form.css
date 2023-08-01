@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.bgi{
+    background-image: url(./1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
